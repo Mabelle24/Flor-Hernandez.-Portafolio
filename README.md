@@ -4,6 +4,6 @@
 
 ##Los lenguajes utilizado fueron  HTML5, CSS y Javascript
 
-![Demo](
+![Demo](/imagenes/captura_portafolio.png)
 
 Fue realizado durante el bootcamp de Tecnolochicas PRO  en la fecha  23 de Marzo 2024
